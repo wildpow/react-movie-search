@@ -4,7 +4,7 @@ A React app that searches the [OMDb API](https://www.omdbapi.com/). Displaying m
 
 ##### This project is Just for learning new frameworks and completing my goal of 2 hours of coding a day.
 
-## Next Steps
+## 🔧 Roadmap
 
 - Better styling while learning something new with either a preprocessor (SASS, Stylus, PostCSS) or framework (Bulma, Ant Design, Grommet).
 - Add an animation library like [react-spring](https://www.react-spring.io/).
